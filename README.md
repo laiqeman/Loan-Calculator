@@ -56,7 +56,5 @@ https://my-loan-calculator.streamlit.app/
 ## 🔗 GitHub Repository  
 [Loan Calculator Repository](https://github.com/laiqeman/Loan-Calculator)  
 
-## 📸 Screenshots & Demo
-*Include relevant screenshots or a short video demo here.*
 
 
