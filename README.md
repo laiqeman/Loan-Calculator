@@ -53,6 +53,9 @@ The Loan Calculator allows users to:
 ## 🌍 Deployment Link
 https://my-loan-calculator.streamlit.app/
 
+🔗 GitHub Repository
+
+
 ## 📸 Screenshots & Demo
 *Include relevant screenshots or a short video demo here.*
 
