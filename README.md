@@ -41,7 +41,7 @@ The Loan Calculator allows users to:
    ```
 3. **Install Dependencies:**
    ```bash
-   pip install streamlit numpy pandas matplotlib
+   pip install -r requirements.txt
    ```
 4. **Run the App:**
    ```bash
