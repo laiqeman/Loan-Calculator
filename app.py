@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt # type: ignore
+import matplotlib.pyplot as plt 
 
 def calculate_loan(amount, rate, years, frequency):
     n = {'Monthly': 12, 'Yearly': 1}[frequency]
